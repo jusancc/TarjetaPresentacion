@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TarjetaPresentacion</string>
+    <string name="nombre">Juan Sánchez</string>
+    <string name="profesion">Estudiante de ingeniería informática</string>
+
+    <string name="correo">jusancc@unirioja.es</string>
+    <string name="telefono">646364810</string>
+</resources>
