@@ -76,7 +76,8 @@ fun Datos(correo : String, telefono : String, modifier: Modifier = Modifier){
         verticalArrangement = Arrangement.Bottom,
         horizontalAlignment = Alignment.CenterHorizontally)
     {
-            
+
+
         Text(text = correo,
             modifier = Modifier.padding(8.dp)
         )
